@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  min-width: 500px;
+  background: darkslategray;
+  color:antiquewhite
+}
+#container{
+  background: black;
+  margin: 50px;
+  padding: 50px;
+}
+#adventurer{
+  width: 200px;
+  height: auto;
+  
+}
+button {
+  margin-bottom: 10px;
+}
